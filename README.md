@@ -1,9 +1,10 @@
 # Add-ubuntu-disk-space-which-is-taken-from-windows
-I follow a tutorial, which is helpful.
-After finish this tutoril, I use command htop to check my swap usage, which is not used.
-Actually, ubuntu is different from windows, in which RAM and swap are used together.
-ubuntu will use swap till the RAM is all used.
-In physical world, RAM is much faster than swap(just disk). So don't worrry about that swap is not used on ubuntu till you RAM is filled.
+I follow a tutorial, which is helpful.  
+After finish this tutoril, I use command htop to check my swap usage, which is not used.  
+Actually, ubuntu is different from windows, in which RAM and swap are used together.  
+ubuntu will use swap till the RAM is all used.  
+In physical world, RAM is much faster than swap(just disk). So don't worrry about that swap is not used on ubuntu till you RAM is filled.  
+
 版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
 本文链接：https://blog.csdn.net/Carina_Cao/article/details/90270389
 
